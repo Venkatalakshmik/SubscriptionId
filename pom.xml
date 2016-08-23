@@ -108,7 +108,7 @@
                             <suppressJMeterOutput>false</suppressJMeterOutput>
                                 <propertiesUser>
                                     <testData>order_test.csv</testData>
-                                    <threadNum>4</threadNum>
+                                    <threadNum>5</threadNum>
                                     <rampUpPeriodSecs>5</rampUpPeriodSecs>
                                     <loopCount>1</loopCount>
                                 </propertiesUser>
